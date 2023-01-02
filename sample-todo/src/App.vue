@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import 'destyle.css';
+import 'normalize.css';
 import TheHeader from './components/TheHeader.vue';
 import TheFooter from './components/TheFooter.vue';
 </script>
